@@ -20,6 +20,9 @@ const connect = async () => {
   }
 };
 
+app.get("/", (req,res) => {
+  res.send("Welcome to home !")
+})
 app.use("/user", router);
 app.use("/project", projectRouter);
 app.use("/task", taskRouter);
@@ -27,5 +30,5 @@ app.use("/team", teamroutes);
 
 app.listen(3232, () => {
   connect();
-  console.log("server running on 3232");
+  console.log("server running on 9696");
 });
