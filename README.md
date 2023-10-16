@@ -1,6 +1,6 @@
 # 🔥🔥 Trello Project 🔥🔥
 
-## 📚🔥🌟 Overview 📚🔥🌟
+## 📚🔥 Overview 📚🔥
 
 The Trello project is a comprehensive project management system designed to facilitate efficient project, task, team, and user management. The application includes an admin section with features for project, task, team, and user management. It also provides login, signup, and logout functionalities. The frontend is developed using Angular, JavaScript, and CSS, while the backend is powered by Node.js, Express, Mongoose, and MongoDB for data storage. Passwords are securely hashed using the crypto library.
 
@@ -45,7 +45,7 @@ The Trello project is a comprehensive project management system designed to faci
 
 - Engaging landing page design.
 
-## Tech Stack
+## 🚀🚀 Tech Stack 🚀🚀
 
 ### 🌟🌟 Frontend 🌟🌟
 
