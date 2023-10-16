@@ -62,7 +62,7 @@ The Trello project is a comprehensive project management system designed to faci
 - MongoDB (NoSQL database)
 - Crypto (for password hashing)
 
-## Getting Started
+## 🎉🎉 Getting Started 🎉🎉
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ The Trello project is a comprehensive project management system designed to faci
 
 ### Installation
 
-1. Clone the repository.
+1. 🌈 Clone the repository.🌈
    ```bash
-   git clone https://github.com/your-username/trello.git
+   git clone https://github.com/Md-Abdul/Trello.git
    cd trello
